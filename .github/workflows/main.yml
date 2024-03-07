@@ -2,7 +2,7 @@ name: Builb Test and push
 on: [push]
 env:
   IMAGE_NAME: student_service
-  REPO_NAME: callmenoodles/uva-devops-rest
+  REPO_NAME: callmenoodles
 
 
 jobs:
